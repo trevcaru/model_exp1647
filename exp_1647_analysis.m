@@ -1,5 +1,5 @@
 % Load CSV file into MATLAB
-data = readtable('C:\Users\Trevor\Desktop\PsychModeling\ExamData.csv');
+data = readtable('C:\Users\Trevor\Desktop\PsychModeling\dat_anon_reduct.csv');
 
 % Display the first few rows of the table
 head(data)
